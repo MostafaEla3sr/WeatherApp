@@ -1,16 +1,9 @@
-# weather_app
+# Weather App 🎎🈹 
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+This is a simple Weather app developed using Flutter.
+The application allows the user to search for any city in which he wants to know the weather condition, and he can also know the weather condition throughout the day and also be able to know the weather forecast for the next three days.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenrecord
+https://github.com/MostafaEla3sr/WeatherApp/assets/73349514/b35217b8-73c4-475f-b6ac-0fec72f7e62c
